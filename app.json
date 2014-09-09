@@ -1,0 +1,8 @@
+{ 
+    "name": "cbr_currencies",
+    "jsFiles": ["cbr.js"],
+    "type": "foreground",
+    "displayName": "Валюты",
+	"iconFile"  : "app.png",
+	"hasIdle": true
+}
